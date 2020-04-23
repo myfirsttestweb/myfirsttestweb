@@ -1,0 +1,37 @@
+body{
+	background-color: #1a1a1a;
+}
+
+h1{
+	color: white;
+	font-weight: 40000000;
+	
+}
+
+p{
+	color: white;
+	
+}
+
+button{
+	background-color: #333333;
+	border: none;
+	border-width: 0px;
+	color: white;
+	padding: 10px;
+	outline: none;	
+}
+
+button:hover{
+	background-color: #666666;
+	cursor: pointer; 
+
+}
+
+img{
+	width: 400px;
+}
+
+#selected{
+	background-color: #6699ff;
+}
